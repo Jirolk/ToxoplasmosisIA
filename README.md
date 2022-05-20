@@ -1,3 +1,3 @@
 # ToxoplasmosisIA
-Diagnostico de Toxoplasmosis ocular con imágenes de fondo de ojo usando Inteligencia artificial
-Trabajo de fin de Carrera - Proyecto de Tesis
+Diagnostico de Toxoplasmosis ocular con imágenes de fondo de ojo usando Inteligencia Artificial.
+Trabajo de fin de Carrera - Proyecto de Tesis año 2022
